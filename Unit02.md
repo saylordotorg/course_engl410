@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL410: The Victorian Novel"
+course_description: "An examination of the historical and cultural contexts of The English Victorian novel. Works studied include Vanity Fair, The Woman in White, Middlemarch, Great Expectations, and North and South."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: History and Conventions of the Victorian Novel** <span
 id="2"></span> 
 *The Victorian novel has become one of the hallmarks of our literary

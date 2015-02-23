@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL410: The Victorian Novel"
+course_description: "An examination of the historical and cultural contexts of The English Victorian novel. Works studied include Vanity Fair, The Woman in White, Middlemarch, Great Expectations, and North and South."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The British Empire and the Victorian Novel** <span
 id="4"></span> 
 *It was once said that the “sun never set” on the British Empire; this
