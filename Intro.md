@@ -106,3 +106,4 @@ the final exam with a score of 70% or higher.
 - [Unit 4](https://legacy.saylor.org/engl410/Unit04/)
 - [Unit 5](https://legacy.saylor.org/engl410/Unit05/)
 - [Unit 6](https://legacy.saylor.org/engl410/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL410/ENGL410-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL410/ENGL410-FinalExam-Answers.html)
