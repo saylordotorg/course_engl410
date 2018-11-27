@@ -244,7 +244,7 @@ Overview** <span id="5.2.2"></span> 
     Jefferies and Victorian Science Fiction”**
     Link: The Victorian Web: Dr. Jacqueline  Banerjee’s [“Richard
     Jefferies and Victorian Science
-    Fiction”](http://www.saylor.org/site/wp-content/uploads/2011/04/Richard-Jefferies-and-Victorian-Science-Fiction.pdf)
+    Fiction”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Richard-Jefferies-and-Victorian-Science-Fiction.pdf)
     (HTML)  
       
      Instructions: Read the Victorian Web’s version of Dr. Banerjee’s
